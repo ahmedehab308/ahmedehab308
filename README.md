@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Ahmed Ehab</h1>
 
 <p align="center">
-💻 Software Developer | ⚙️ Full Stack .NET & Angular Developer | 🎓 ITI 9M Graduate (Professional Web Development Track - Intake 45)
+💻 Software Developer | ⚙️ Full Stack .NET & Angular Developer | 🎓 ITI 9M Graduate (Professional Web Development - Intake 45)
 </p>
 
 ---
