@@ -36,12 +36,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
-### 🚀 Featured Projects
-- 🧰 **Handyman Services Platform (HandFandy)** – Connecting homeowners with verified handymen in Egypt  
-- 🧮 **Examination System (MVC)** – Web-based system for managing exams, questions, and student reports  
-- 🛒 **E-Commerce Platform (Node.js + Angular)** – Full-stack app with authentication, product management, and checkout  
-- 🛍️ **E-Commerce Platform (JavaScript)** – Full-stack eCommerce solution built with Vanilla JS for both frontend and backend  
-
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:ahmedehab308@gmail.com">
