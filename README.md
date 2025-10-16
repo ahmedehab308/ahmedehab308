@@ -37,7 +37,7 @@
 
 ---
 ### 🚀 Featured Projects
-- 🧰 **Handyman Services Platform (Astavandy)** – Connecting homeowners with verified handymen in Egypt  
+- 🧰 **Handyman Services Platform (HandFandy)** – Connecting homeowners with verified handymen in Egypt  
 - 🧮 **Examination System (MVC)** – Web-based system for managing exams, questions, and student reports  
 - 🛒 **E-Commerce Platform (Node.js + Angular)** – Full-stack app with authentication, product management, and checkout  
 - 🛍️ **E-Commerce Platform (JavaScript)** – Full-stack eCommerce solution built with Vanilla JS for both frontend and backend  
